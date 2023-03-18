@@ -1,0 +1,24 @@
+F:\code\SEMESTER 2\THA W3 NEW\THA W3 NEW\bin\Debug\THA W3 NEW.exe.config
+F:\code\SEMESTER 2\THA W3 NEW\THA W3 NEW\bin\Debug\THA W3 NEW.exe
+F:\code\SEMESTER 2\THA W3 NEW\THA W3 NEW\bin\Debug\THA W3 NEW.pdb
+F:\code\SEMESTER 2\THA W3 NEW\THA W3 NEW\obj\Debug\THA W3 NEW.csproj.AssemblyReference.cache
+F:\code\SEMESTER 2\THA W3 NEW\THA W3 NEW\obj\Debug\THA W3 NEW.csproj.SuggestedBindingRedirects.cache
+F:\code\SEMESTER 2\THA W3 NEW\THA W3 NEW\obj\Debug\THA_W3_NEW.mainwindowform.resources
+F:\code\SEMESTER 2\THA W3 NEW\THA W3 NEW\obj\Debug\THA_W3_NEW.Properties.Resources.resources
+F:\code\SEMESTER 2\THA W3 NEW\THA W3 NEW\obj\Debug\THA W3 NEW.csproj.GenerateResource.cache
+F:\code\SEMESTER 2\THA W3 NEW\THA W3 NEW\obj\Debug\THA W3 NEW.csproj.CoreCompileInputs.cache
+F:\code\SEMESTER 2\THA W3 NEW\THA W3 NEW\obj\Debug\THA W3 NEW.exe
+F:\code\SEMESTER 2\THA W3 NEW\THA W3 NEW\obj\Debug\THA W3 NEW.pdb
+F:\code\SEMESTER 2\THA W3 NEW\THA W3 NEW\obj\Debug\THA_W3_NEW.secondwindowform.resources
+D:\CODE\SEMESTER 2 LAPTOP\THA W3 NEW\THA W3 NEW\THA W3 NEW\bin\Debug\THA W3 NEW.exe.config
+D:\CODE\SEMESTER 2 LAPTOP\THA W3 NEW\THA W3 NEW\THA W3 NEW\bin\Debug\THA W3 NEW.exe
+D:\CODE\SEMESTER 2 LAPTOP\THA W3 NEW\THA W3 NEW\THA W3 NEW\bin\Debug\THA W3 NEW.pdb
+D:\CODE\SEMESTER 2 LAPTOP\THA W3 NEW\THA W3 NEW\THA W3 NEW\obj\Debug\THA W3 NEW.csproj.AssemblyReference.cache
+D:\CODE\SEMESTER 2 LAPTOP\THA W3 NEW\THA W3 NEW\THA W3 NEW\obj\Debug\THA W3 NEW.csproj.SuggestedBindingRedirects.cache
+D:\CODE\SEMESTER 2 LAPTOP\THA W3 NEW\THA W3 NEW\THA W3 NEW\obj\Debug\THA_W3_NEW.mainwindowform.resources
+D:\CODE\SEMESTER 2 LAPTOP\THA W3 NEW\THA W3 NEW\THA W3 NEW\obj\Debug\THA_W3_NEW.secondwindowform.resources
+D:\CODE\SEMESTER 2 LAPTOP\THA W3 NEW\THA W3 NEW\THA W3 NEW\obj\Debug\THA_W3_NEW.Properties.Resources.resources
+D:\CODE\SEMESTER 2 LAPTOP\THA W3 NEW\THA W3 NEW\THA W3 NEW\obj\Debug\THA W3 NEW.csproj.GenerateResource.cache
+D:\CODE\SEMESTER 2 LAPTOP\THA W3 NEW\THA W3 NEW\THA W3 NEW\obj\Debug\THA W3 NEW.csproj.CoreCompileInputs.cache
+D:\CODE\SEMESTER 2 LAPTOP\THA W3 NEW\THA W3 NEW\THA W3 NEW\obj\Debug\THA W3 NEW.exe
+D:\CODE\SEMESTER 2 LAPTOP\THA W3 NEW\THA W3 NEW\THA W3 NEW\obj\Debug\THA W3 NEW.pdb
